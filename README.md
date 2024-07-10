@@ -1,8 +1,9 @@
+# Vegetable-Auction-System
 Vegetable-Auction-System is a online platform for auction and this project is made using PHP 5, MySQL, Javascript, JQuery, Bootstrap and HTML
-
+<pre>
 README FILE:
 
-Vegetable-Auction-System using PHP, by Ajinkya Chirde
+Vegetable-Auction-System using PHP, by <a href="https://github.com/Ajinkyachirde07">Ajinkya Chirde</a>
 
 CONTENTS
 I.	HOW TO START
@@ -64,3 +65,5 @@ IV. SOFTWARE/PLUG-IN DOWNLOADS
 ¥ XAMPP Server.
 ¥ Macromedia Dreamweaver, Aptana Studio, Notepad.
 ¥ Library: Bootstrap, PHP, javaScript, JQuery.
+
+</pre>

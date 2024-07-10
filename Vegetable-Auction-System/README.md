@@ -1,9 +1,9 @@
-# Online-Auction-MVC
-Online Auction is a online platform for auction and this project is made using PHP 5, MySQL, Javascript, JQuery, Bootstrap and HTML
+# Vegetable-Auction-System
+Vegetable-Auction-System is a online platform for auction and this project is made using PHP 5, MySQL, Javascript, JQuery, Bootstrap and HTML
 <pre>
 README FILE:
 
-ONLINE AUCTION SYSTEM using PHP, by <a href="https://github.com/vinitKr">VINIT KUMAR</a>
+Vegetable-Auction-System using PHP, by <a href="https://github.com/Ajinkyachirde07">Ajinkya Chirde</a>
 
 CONTENTS
 I.	HOW TO START
@@ -16,28 +16,28 @@ IV.	SOFTWARE/PLUG-IN DOWNLOADS
 
 I. HOW TO START
 
-** Clone/download the "auctionMVC" project.
+** Clone/download the "Vegetable-Auction-System" project.
 
 
 
 II. HOW TO LAUNCH THE SYSTEM
 
 ** Windows(XAMPP User)
-1. Paste the "auctionMVC" folder at "C:\xampp\htdocs\" location.
+1. Paste the "Vegetable-Auction-System" folder at "C:\xampp\htdocs\" location.
 2. Launch XAMPP Control Panel.
 3. Start "Apache" and "MySQL" module.
 4. Open a web browser.
-5. In URL field write "http://localhost/auctionMVC".
-6. For Admin Page write "http://localhost/auctionmvc/admin.php".
+5. In URL field write "http://localhost/Vegetable-Auction-System".
+6. For Admin Page write "http://localhost/Vegetable-Auction-System/admin.php".
 7. For Database Admin write "http://localhost/phpmyadmin"
 
 ** Windows(WAMP User)
-1. Paste the "auctionMVC" folder at "C:\xampp\www\" location.
+1. Paste the "Vegetable-Auction-System" folder at "C:\xampp\www\" location.
 2. Launch WAMP Control Panel.
 3. Start "Apache" and "MySQL" module.
 4. Open a web browser.
-5. In URL field write "http://localhost/auctionMVC".
-6. For Admin Page write "http://localhost/auctionmvc/admin.php".
+5. In URL field write "http://localhost/Vegetable-Auction-System".
+6. For Admin Page write "http://localhost/Vegetable-Auction-System/admin.php".
 7. For Database Admin write "http://localhost/phpmyadmin"
 
 
@@ -49,7 +49,7 @@ III. MINIMUM SYSTEM REQUIREMENTS
 ¥ To import Database:
 	1. goto 'import' tab.
 	2. select 'choose File' option.
-	3. select 'nilamee.sql' from the 'auctionMVC/nilamee.sql'.
+	3. select 'nilamee.sql' from the 'Vegetable-Auction-System/nilamee.sql'.
 
 ** OS(Windows)
 ¥ Windows 2003, XP, VISTA, 7

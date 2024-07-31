@@ -3,7 +3,7 @@ Vegetable-Auction-System is a online platform for auction and this project is ma
 <pre>
 README FILE:
 
-Vegetable-Auction-System 
+Vegetable-Auction-System (Academic project) 
 CONTENTS
 I.	HOW TO START
 II.	HOW TO LAUNCH THE SYSTEM

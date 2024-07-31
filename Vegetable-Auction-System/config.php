@@ -8,7 +8,7 @@ class config {
 		$this -> servername = "localhost";
 		$this -> username = "root";
 		$this -> password = "";
-		$this -> dbname = "nilamee";
+		$this -> dbname = "nilamee_ajinkya_chirde";
 	}
 
 }

@@ -3,7 +3,7 @@ Vegetable-Auction-System is a online platform for auction and this project is ma
 <pre>
 README FILE:
 
-Vegetable-Auction-System using PHP, by <a href="https://github.com/Ajinkyachirde07">Ajinkya Chirde</a>
+Vegetable-Auction-System
 
 CONTENTS
 I.	HOW TO START
